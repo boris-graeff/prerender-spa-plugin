@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "mkdirp-promise": "^5.0.1",
-    "prerenderer": "^0.5.0",
+    "prerenderer": "boris-graeff/prerenderer#fix/browser-build-process",
     "promise-limit": "^2.5.0"
   },
   "devDependencies": {
